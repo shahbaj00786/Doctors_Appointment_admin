@@ -7,11 +7,7 @@
 - npm install -D tailwindcss @tailwindcss/postcss
 
 - postcss.config.js
-  export default {
-  plugins: {
-    '@tailwindcss/postcss': {},
-  },
-}
+postcss.config.js
 
 - index.css
   @import "tailwindcss";
